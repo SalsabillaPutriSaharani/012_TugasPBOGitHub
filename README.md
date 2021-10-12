@@ -1,2 +1,5 @@
 # 012_TugasPBOGitHub
-Laman ini berisi tugas mata kuliah Pemrograman Berorientasi Objek yang terdiri dari Inheritance, Interface, dan Polymorpishm.
+Nama    : Salsabilla Putri Saharani
+NIM     : 20051214012
+Kelas   : Sistem Informasi 2020B
+Laman ini berisi tugas 5 mata kuliah Pemrograman Berorientasi Objek.
